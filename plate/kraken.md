@@ -10,17 +10,17 @@ Se rendre sur le site de kraken: [https://www.kraken.com](https://www.kraken.com
 
 Cliquer sur "create account"
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 Remplir les informations demandées et cliquer de nouveau sur "create account"
 
 Un email avec un code vas vous être envoyé afin d'activer votre compte
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 Entrer les identifiants pour valider la création
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 Vous voici sur la page d'accueil de Kraken
 
@@ -56,11 +56,11 @@ Afin de sécuriser votre compte Kraken, dès votre inscription, il est recommand
 
 Néanmoins, pour activer ou désactiver cette 2FA, cliquez sur « Security »; ensuite il vous sera demandé de choisir une méthode d’authentification: soit un mot de passe statique, qui est fortement déconseillé), soit l’application « Google Authentificator ». Le plus pratique à utiliser est l’application mobile Google.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 Ensuite recopiez le code à 24 caractères donné. Il est important de gardé cette clé précieusement écrit sur une feuille ou autre, car c’est elle qui en cas de perte de téléphone par exemple va vous permettre de récupérer votre compte.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Deux choix vont vous être proposé( image 2). Le premier est de scanné votre QR code ci dessus. Le second de rentrer cotre clé d’utilisation à 24 caractères.
 

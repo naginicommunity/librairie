@@ -24,7 +24,7 @@ Ethereum a donc pris la décision de changer de méthode de vérification de blo
 
 Le protocole PoS ne valide plus les blocs en réalisant un problème cryptographique, mais en votant. Chaque vote est associé à un montant de cryptomonnaie détenu. Plus le montant est élevé, plus le vote a d’importance. Cette validation est basée sur une incitation financière. D’une part, la personne qui valide un bloc reçois des intérêts dans la monnaie en question. D’autre part, plus le montant de cryptomonnaie mis en jeu est élevé, moins la personne a d’intérêt à truquer la blockchain en inserant de fausse transaction, car ceci détruirait la crédibilité de la blockchain et donc l’investissement mis en jeu.
 
-![](../.gitbook/assets/proof-o.png)
+![](<../.gitbook/assets/Proof o.png>)
 
 ¹Un fork est une division de la blockchain en 2 blockchain différentes. Dans le cas d’une PoW, un mineur a intérêt à choisir la blockchain qu’il veut miner afin d’avoir plus de chance de miner le bloc. Cependant, dans le cas d’une PoS, un minteur (personnes votant sur un blockchain Proof of Stake) pourrait très bien voter sur 2 blockchain et donc récupérer plus de gains que si elle ne votait sur une seule chaine. Afin d’éviter que des minteurs ne votent sur 2 chaines différentes, Ethereum a mis en place le Slashing. Ceci consiste simplement en une pénalisation financière des minteurs votant sur 2 chaines différentes.
 

@@ -58,20 +58,20 @@ Pour activer ou désactivé cette 2FA, cliquez sur l’icône « settings».
 
 Ensuite cliquez sur l’onglet « sécurité » situé sur la colonne de gauche. Il vous sera proposé de choisir une méthode d’authentification: soit un mot de passe statique (fortement déconseillé), soit l’application « Google Authentificator », soit encore l’appareil d’authentification Yubikey. Le plus pratique à utiliser est l’application mobile Google.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 Tout d’abord télécharger l’appli « google Authentificator », disponible sur androïd et apple.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 Votre QR code et votre clé d’authentification vont apparaître à l’écran gardez les . Il est important de garder cette clé précieusement écrite sur une feuille ou autre, car c’est elle qui en cas de perte de téléphone par exemple va vous permettre de récupérer votre compte.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (13).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (16).png>)
 
 Ensuite, rendez-vous sur l’application Google Authentificator. On vous proposera de configurer votre compte de deux manières : par QR code ou en saisissant votre clé manuellement. Pour notre exemple nous allons choisir la seconde méthode. Il faut donc saisir les informations demandées, puis un mot de passe à 6 chiffres se génère automatiquement en changeant toute les 30 secondes.
 
 Pour finir un code vérification, envoyé par email, et le code vérification de google authentificator sont à rentrer. Une fois fait votre compte sera sécurisé.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (15).png>)

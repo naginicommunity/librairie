@@ -30,7 +30,7 @@ Plus ce rapport est élevé, plus les détenteurs sont à profit, et plus il y a
 
 Le MVRV-Z score est une variante du MVRV mais transmet des informations similaires avec une zone d’achat et de vente, il est généralement plus précis et plus lisible
 
-![](../.gitbook/assets/mvrv-z-score.png)
+![](<../.gitbook/assets/MVRV Z-Score.png>)
 
 Source : [https://www.lookintobitcoin.com/](https://www.lookintobitcoin.com)
 
