@@ -13,6 +13,7 @@
 * [Kraken](plate/kraken.md)
 * [Binance](plate/binance.md)
 * [Coinbase](plate/untitled.md)
+* [Bisq network](plate/bisq-network.md)
 
 ## BITCOIN
 
